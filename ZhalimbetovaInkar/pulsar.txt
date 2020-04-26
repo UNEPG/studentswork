@@ -1,0 +1,7 @@
+types of pulsar
+1.millisecond pulsars
+2.x-ray pulsars
+3.radio pulsar
+4.optical pulsars
+5.gamma-ray pulsars
+6.magnetars
