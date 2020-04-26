@@ -1,0 +1,23 @@
+Nil   6650
+Amazon   6515
+Yangtze   6300
+Mississippi   6275
+Yenisei   5539
+Yellow River   5464
+Ob-Irtysh   5410
+Rio de la Plata   4880
+Congo   4700
+Amur   4444
+Lena   4400
+Mekong   4350
+Mackenzie   4241
+Niger   4200
+Brahmaputra   3848
+Murray   3672
+Volga   3645
+Madeira   3380
+Purus   3211
+Yukon   3185
+Sao Francisco   3180
+Syr Darya   3078
+Salween   3060

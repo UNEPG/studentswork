@@ -1,0 +1,9 @@
+ls command main options:
+-a - list all files including hidden file starting with
+-d - list directories
+-F - addon char of
+-i - list files inode index number
+-l - list with long format
+-s - list faile size
+-t - sort by yime,date
+-r - list in reverse order
