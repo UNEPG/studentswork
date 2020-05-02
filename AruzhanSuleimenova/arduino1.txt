@@ -1,0 +1,24 @@
+int  kitkat;
+int  snickers;
+int  twix;
+void setup() {
+Serial.begin(9600);
+Serial.println("Pick your chocolate \n kitkat - press 1 \n snickers - press 2 \n twix - press 3");
+}
+
+void loop() {
+  if (Serial.available() ) {
+    kitkat= Serial.parseInt();
+    if (kitkat == 1) {
+      Serial.println(" Take your \n kitkat");
+   }   
+    snickers= Serial.parseInt();
+    if (snickers == 2) {
+      Serial.println(" Take your \n snickers");
+    }
+    twix= Serial.parseInt();
+    if (twix == 3) {
+      Serial.println(" Take your \n twix");
+    }
+  }
+}
